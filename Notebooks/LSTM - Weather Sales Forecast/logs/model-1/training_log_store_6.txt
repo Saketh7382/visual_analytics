@@ -1,0 +1,25 @@
+--------------------NEW LOG--------------------
+Logger started at: 2021-9-23 23:2:39
+Validation Loss Decreased(inf--->0.00442) 	 Saving The Model
+Validation Loss Decreased(0.00442--->0.00429) 	 Saving The Model
+Validation Loss Decreased(0.00429--->0.00422) 	 Saving The Model
+Validation Loss Decreased(0.00422--->0.00414) 	 Saving The Model
+Validation Loss Decreased(0.00414--->0.00408) 	 Saving The Model
+Epoch 100 		 Training Loss: 0.00059 		 Validation Loss: 0.00708
+Epoch 200 		 Training Loss: 0.00022 		 Validation Loss: 0.00526
+Epoch 300 		 Training Loss: 0.00020 		 Validation Loss: 0.00519
+Epoch 400 		 Training Loss: 0.00014 		 Validation Loss: 0.00504
+Epoch 500 		 Training Loss: 0.00022 		 Validation Loss: 0.00584
+Stopping the training early		Model saved
+	Training Loss: 0.00016709371630464661
+	Validation Loss: 0.004080091945676638
+
+
+
+
+RMSE of validation set: 15.667846126245344
+RMSE of entire data set: 4.77265270198388
+
+
+
+
