@@ -1,0 +1,838 @@
+--------------------NEW LOG--------------------
+Logger started at: 2021-9-23 13:1:13
+	Number of epochs :	4000
+	Learning Rate :	0.01
+	Input size : 1
+	Number of layers : 1
+	Number of classes : 1
+	Loss function : MSE
+	Optimizer : ADAM
+	 :Training model
+------------------
+Validation Loss Decreased(inf--->0.01625) 	 Saving The Model
+Validation Loss Decreased(0.01625--->0.01535) 	 Saving The Model
+Validation Loss Decreased(0.01535--->0.01439) 	 Saving The Model
+Validation Loss Decreased(0.01439--->0.01417) 	 Saving The Model
+Validation Loss Decreased(0.01417--->0.01404) 	 Saving The Model
+Validation Loss Decreased(0.01404--->0.01374) 	 Saving The Model
+Validation Loss Decreased(0.01374--->0.01348) 	 Saving The Model
+Validation Loss Decreased(0.01348--->0.01343) 	 Saving The Model
+Validation Loss Decreased(0.01343--->0.01332) 	 Saving The Model
+Validation Loss Decreased(0.01332--->0.01291) 	 Saving The Model
+Validation Loss Decreased(0.01291--->0.01246) 	 Saving The Model
+Validation Loss Decreased(0.01246--->0.01214) 	 Saving The Model
+Validation Loss Decreased(0.01214--->0.01191) 	 Saving The Model
+Validation Loss Decreased(0.01191--->0.01162) 	 Saving The Model
+Validation Loss Decreased(0.01162--->0.01130) 	 Saving The Model
+Validation Loss Decreased(0.01130--->0.01109) 	 Saving The Model
+Validation Loss Decreased(0.01109--->0.01092) 	 Saving The Model
+Validation Loss Decreased(0.01092--->0.01048) 	 Saving The Model
+Validation Loss Decreased(0.01048--->0.00995) 	 Saving The Model
+Validation Loss Decreased(0.00995--->0.00963) 	 Saving The Model
+Validation Loss Decreased(0.00963--->0.00923) 	 Saving The Model
+Validation Loss Decreased(0.00923--->0.00905) 	 Saving The Model
+Validation Loss Decreased(0.00905--->0.00885) 	 Saving The Model
+Validation Loss Decreased(0.00885--->0.00859) 	 Saving The Model
+Validation Loss Decreased(0.00859--->0.00851) 	 Saving The Model
+Validation Loss Decreased(0.00851--->0.00848) 	 Saving The Model
+Validation Loss Decreased(0.00848--->0.00846) 	 Saving The Model
+Validation Loss Decreased(0.00846--->0.00843) 	 Saving The Model
+Validation Loss Decreased(0.00843--->0.00838) 	 Saving The Model
+Validation Loss Decreased(0.00838--->0.00829) 	 Saving The Model
+Validation Loss Decreased(0.00829--->0.00823) 	 Saving The Model
+Validation Loss Decreased(0.00823--->0.00815) 	 Saving The Model
+Validation Loss Decreased(0.00815--->0.00804) 	 Saving The Model
+Validation Loss Decreased(0.00804--->0.00798) 	 Saving The Model
+Validation Loss Decreased(0.00798--->0.00796) 	 Saving The Model
+Validation Loss Decreased(0.00796--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00787) 	 Saving The Model
+Validation Loss Decreased(0.00787--->0.00785) 	 Saving The Model
+Validation Loss Decreased(0.00785--->0.00785) 	 Saving The Model
+Validation Loss Decreased(0.00785--->0.00784) 	 Saving The Model
+Validation Loss Decreased(0.00784--->0.00782) 	 Saving The Model
+Validation Loss Decreased(0.00782--->0.00779) 	 Saving The Model
+Validation Loss Decreased(0.00779--->0.00775) 	 Saving The Model
+Validation Loss Decreased(0.00775--->0.00772) 	 Saving The Model
+Epoch 100 		 Training Loss: 0.00845 		 Validation Loss: 0.00768
+Validation Loss Decreased(0.00772--->0.00768) 	 Saving The Model
+Validation Loss Decreased(0.00768--->0.00764) 	 Saving The Model
+Validation Loss Decreased(0.00764--->0.00759) 	 Saving The Model
+Validation Loss Decreased(0.00759--->0.00755) 	 Saving The Model
+Validation Loss Decreased(0.00755--->0.00750) 	 Saving The Model
+Validation Loss Decreased(0.00750--->0.00745) 	 Saving The Model
+Validation Loss Decreased(0.00745--->0.00741) 	 Saving The Model
+Validation Loss Decreased(0.00741--->0.00737) 	 Saving The Model
+Validation Loss Decreased(0.00737--->0.00733) 	 Saving The Model
+Validation Loss Decreased(0.00733--->0.00729) 	 Saving The Model
+Validation Loss Decreased(0.00729--->0.00726) 	 Saving The Model
+Validation Loss Decreased(0.00726--->0.00722) 	 Saving The Model
+Validation Loss Decreased(0.00722--->0.00718) 	 Saving The Model
+Validation Loss Decreased(0.00718--->0.00715) 	 Saving The Model
+Validation Loss Decreased(0.00715--->0.00712) 	 Saving The Model
+Validation Loss Decreased(0.00712--->0.00709) 	 Saving The Model
+Validation Loss Decreased(0.00709--->0.00708) 	 Saving The Model
+Validation Loss Decreased(0.00708--->0.00707) 	 Saving The Model
+Validation Loss Decreased(0.00707--->0.00706) 	 Saving The Model
+Validation Loss Decreased(0.00706--->0.00705) 	 Saving The Model
+Validation Loss Decreased(0.00705--->0.00703) 	 Saving The Model
+Validation Loss Decreased(0.00703--->0.00703) 	 Saving The Model
+Validation Loss Decreased(0.00703--->0.00702) 	 Saving The Model
+Validation Loss Decreased(0.00702--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00696) 	 Saving The Model
+Validation Loss Decreased(0.00696--->0.00695) 	 Saving The Model
+Validation Loss Decreased(0.00695--->0.00695) 	 Saving The Model
+Validation Loss Decreased(0.00695--->0.00692) 	 Saving The Model
+Validation Loss Decreased(0.00692--->0.00691) 	 Saving The Model
+Validation Loss Decreased(0.00691--->0.00691) 	 Saving The Model
+Validation Loss Decreased(0.00691--->0.00691) 	 Saving The Model
+Validation Loss Decreased(0.00691--->0.00690) 	 Saving The Model
+Validation Loss Decreased(0.00690--->0.00689) 	 Saving The Model
+Validation Loss Decreased(0.00689--->0.00689) 	 Saving The Model
+Validation Loss Decreased(0.00689--->0.00688) 	 Saving The Model
+Validation Loss Decreased(0.00688--->0.00687) 	 Saving The Model
+Validation Loss Decreased(0.00687--->0.00687) 	 Saving The Model
+Validation Loss Decreased(0.00687--->0.00686) 	 Saving The Model
+Validation Loss Decreased(0.00686--->0.00686) 	 Saving The Model
+Validation Loss Decreased(0.00686--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Epoch 200 		 Training Loss: 0.00762 		 Validation Loss: 0.00679
+Validation Loss Decreased(0.00680--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00669) 	 Saving The Model
+Validation Loss Decreased(0.00669--->0.00669) 	 Saving The Model
+Validation Loss Decreased(0.00669--->0.00669) 	 Saving The Model
+Validation Loss Decreased(0.00669--->0.00669) 	 Saving The Model
+Epoch 300 		 Training Loss: 0.00697 		 Validation Loss: 0.00673
+Epoch 400 		 Training Loss: 0.00625 		 Validation Loss: 0.00734
+Epoch 500 		 Training Loss: 0.00586 		 Validation Loss: 0.00755
+Epoch 600 		 Training Loss: 0.00524 		 Validation Loss: 0.00777
+Epoch 700 		 Training Loss: 0.00486 		 Validation Loss: 0.00849
+Epoch 800 		 Training Loss: 0.00443 		 Validation Loss: 0.00946
+Epoch 900 		 Training Loss: 0.00424 		 Validation Loss: 0.01033
+Epoch 1000 		 Training Loss: 0.00398 		 Validation Loss: 0.01106
+Epoch 1100 		 Training Loss: 0.00373 		 Validation Loss: 0.01093
+Epoch 1200 		 Training Loss: 0.00350 		 Validation Loss: 0.01080
+Epoch 1300 		 Training Loss: 0.00336 		 Validation Loss: 0.01240
+Epoch 1400 		 Training Loss: 0.00313 		 Validation Loss: 0.01204
+Epoch 1500 		 Training Loss: 0.00293 		 Validation Loss: 0.01292
+Epoch 1600 		 Training Loss: 0.00292 		 Validation Loss: 0.01348
+Epoch 1700 		 Training Loss: 0.00280 		 Validation Loss: 0.01333
+Epoch 1800 		 Training Loss: 0.00294 		 Validation Loss: 0.01254
+Epoch 1900 		 Training Loss: 0.00267 		 Validation Loss: 0.01488
+Epoch 2000 		 Training Loss: 0.00252 		 Validation Loss: 0.01502
+Epoch 2100 		 Training Loss: 0.00248 		 Validation Loss: 0.01515
+Epoch 2200 		 Training Loss: 0.00253 		 Validation Loss: 0.01549
+Stopping the training early		Model saved
+	Training Loss: 0.002650092588737607
+	Validation Loss: 0.006686780136078596
+
+
+
+
+RMSE of validation set: 7.551760802855157
+RMSE of entire data set: 4.4551281337976425
+
+
+
+
+--------------------NEW LOG--------------------
+Logger started at: 2021-9-24 17:30:10
+	Number of epochs :	4000
+	Learning Rate :	0.01
+	Input size : 1
+	Number of layers : 1
+	Number of classes : 1
+	Loss function : MSE
+	Optimizer : ADAM
+	 :Training model
+------------------
+Validation Loss Decreased(inf--->0.05836) 	 Saving The Model
+Validation Loss Decreased(0.05836--->0.02887) 	 Saving The Model
+Validation Loss Decreased(0.02887--->0.01285) 	 Saving The Model
+Validation Loss Decreased(0.01285--->0.01227) 	 Saving The Model
+Validation Loss Decreased(0.01227--->0.01224) 	 Saving The Model
+Validation Loss Decreased(0.01224--->0.01216) 	 Saving The Model
+Validation Loss Decreased(0.01216--->0.01209) 	 Saving The Model
+Validation Loss Decreased(0.01209--->0.01201) 	 Saving The Model
+Validation Loss Decreased(0.01201--->0.01197) 	 Saving The Model
+Validation Loss Decreased(0.01197--->0.01188) 	 Saving The Model
+Validation Loss Decreased(0.01188--->0.01178) 	 Saving The Model
+Validation Loss Decreased(0.01178--->0.01170) 	 Saving The Model
+Validation Loss Decreased(0.01170--->0.01165) 	 Saving The Model
+Validation Loss Decreased(0.01165--->0.01161) 	 Saving The Model
+Validation Loss Decreased(0.01161--->0.01158) 	 Saving The Model
+Validation Loss Decreased(0.01158--->0.01155) 	 Saving The Model
+Validation Loss Decreased(0.01155--->0.01152) 	 Saving The Model
+Validation Loss Decreased(0.01152--->0.01149) 	 Saving The Model
+Validation Loss Decreased(0.01149--->0.01145) 	 Saving The Model
+Validation Loss Decreased(0.01145--->0.01143) 	 Saving The Model
+Validation Loss Decreased(0.01143--->0.01141) 	 Saving The Model
+Validation Loss Decreased(0.01141--->0.01140) 	 Saving The Model
+Validation Loss Decreased(0.01140--->0.01139) 	 Saving The Model
+Validation Loss Decreased(0.01139--->0.01138) 	 Saving The Model
+Validation Loss Decreased(0.01138--->0.01136) 	 Saving The Model
+Validation Loss Decreased(0.01136--->0.01133) 	 Saving The Model
+Validation Loss Decreased(0.01133--->0.01129) 	 Saving The Model
+Validation Loss Decreased(0.01129--->0.01124) 	 Saving The Model
+Validation Loss Decreased(0.01124--->0.01118) 	 Saving The Model
+Validation Loss Decreased(0.01118--->0.01113) 	 Saving The Model
+Validation Loss Decreased(0.01113--->0.01108) 	 Saving The Model
+Validation Loss Decreased(0.01108--->0.01104) 	 Saving The Model
+Validation Loss Decreased(0.01104--->0.01100) 	 Saving The Model
+Validation Loss Decreased(0.01100--->0.01096) 	 Saving The Model
+Validation Loss Decreased(0.01096--->0.01092) 	 Saving The Model
+Validation Loss Decreased(0.01092--->0.01089) 	 Saving The Model
+Validation Loss Decreased(0.01089--->0.01086) 	 Saving The Model
+Validation Loss Decreased(0.01086--->0.01083) 	 Saving The Model
+Validation Loss Decreased(0.01083--->0.01081) 	 Saving The Model
+Validation Loss Decreased(0.01081--->0.01078) 	 Saving The Model
+Validation Loss Decreased(0.01078--->0.01075) 	 Saving The Model
+Validation Loss Decreased(0.01075--->0.01072) 	 Saving The Model
+Validation Loss Decreased(0.01072--->0.01069) 	 Saving The Model
+Validation Loss Decreased(0.01069--->0.01065) 	 Saving The Model
+Validation Loss Decreased(0.01065--->0.01061) 	 Saving The Model
+Validation Loss Decreased(0.01061--->0.01057) 	 Saving The Model
+Validation Loss Decreased(0.01057--->0.01052) 	 Saving The Model
+Validation Loss Decreased(0.01052--->0.01048) 	 Saving The Model
+Validation Loss Decreased(0.01048--->0.01044) 	 Saving The Model
+Validation Loss Decreased(0.01044--->0.01040) 	 Saving The Model
+Validation Loss Decreased(0.01040--->0.01037) 	 Saving The Model
+Validation Loss Decreased(0.01037--->0.01033) 	 Saving The Model
+Validation Loss Decreased(0.01033--->0.01030) 	 Saving The Model
+Validation Loss Decreased(0.01030--->0.01027) 	 Saving The Model
+Validation Loss Decreased(0.01027--->0.01024) 	 Saving The Model
+Validation Loss Decreased(0.01024--->0.01021) 	 Saving The Model
+Validation Loss Decreased(0.01021--->0.01017) 	 Saving The Model
+Validation Loss Decreased(0.01017--->0.01014) 	 Saving The Model
+Validation Loss Decreased(0.01014--->0.01010) 	 Saving The Model
+Validation Loss Decreased(0.01010--->0.01007) 	 Saving The Model
+Epoch 100 		 Training Loss: 0.01055 		 Validation Loss: 0.01003
+Validation Loss Decreased(0.01007--->0.01003) 	 Saving The Model
+Validation Loss Decreased(0.01003--->0.00999) 	 Saving The Model
+Validation Loss Decreased(0.00999--->0.00995) 	 Saving The Model
+Validation Loss Decreased(0.00995--->0.00992) 	 Saving The Model
+Validation Loss Decreased(0.00992--->0.00988) 	 Saving The Model
+Validation Loss Decreased(0.00988--->0.00985) 	 Saving The Model
+Validation Loss Decreased(0.00985--->0.00981) 	 Saving The Model
+Validation Loss Decreased(0.00981--->0.00978) 	 Saving The Model
+Validation Loss Decreased(0.00978--->0.00975) 	 Saving The Model
+Validation Loss Decreased(0.00975--->0.00972) 	 Saving The Model
+Validation Loss Decreased(0.00972--->0.00969) 	 Saving The Model
+Validation Loss Decreased(0.00969--->0.00965) 	 Saving The Model
+Validation Loss Decreased(0.00965--->0.00962) 	 Saving The Model
+Validation Loss Decreased(0.00962--->0.00959) 	 Saving The Model
+Validation Loss Decreased(0.00959--->0.00955) 	 Saving The Model
+Validation Loss Decreased(0.00955--->0.00952) 	 Saving The Model
+Validation Loss Decreased(0.00952--->0.00948) 	 Saving The Model
+Validation Loss Decreased(0.00948--->0.00945) 	 Saving The Model
+Validation Loss Decreased(0.00945--->0.00942) 	 Saving The Model
+Validation Loss Decreased(0.00942--->0.00939) 	 Saving The Model
+Validation Loss Decreased(0.00939--->0.00936) 	 Saving The Model
+Validation Loss Decreased(0.00936--->0.00933) 	 Saving The Model
+Validation Loss Decreased(0.00933--->0.00930) 	 Saving The Model
+Validation Loss Decreased(0.00930--->0.00928) 	 Saving The Model
+Validation Loss Decreased(0.00928--->0.00925) 	 Saving The Model
+Validation Loss Decreased(0.00925--->0.00922) 	 Saving The Model
+Validation Loss Decreased(0.00922--->0.00919) 	 Saving The Model
+Validation Loss Decreased(0.00919--->0.00916) 	 Saving The Model
+Validation Loss Decreased(0.00916--->0.00913) 	 Saving The Model
+Validation Loss Decreased(0.00913--->0.00911) 	 Saving The Model
+Validation Loss Decreased(0.00911--->0.00908) 	 Saving The Model
+Validation Loss Decreased(0.00908--->0.00905) 	 Saving The Model
+Validation Loss Decreased(0.00905--->0.00903) 	 Saving The Model
+Validation Loss Decreased(0.00903--->0.00901) 	 Saving The Model
+Validation Loss Decreased(0.00901--->0.00898) 	 Saving The Model
+Validation Loss Decreased(0.00898--->0.00896) 	 Saving The Model
+Validation Loss Decreased(0.00896--->0.00893) 	 Saving The Model
+Validation Loss Decreased(0.00893--->0.00891) 	 Saving The Model
+Validation Loss Decreased(0.00891--->0.00889) 	 Saving The Model
+Validation Loss Decreased(0.00889--->0.00887) 	 Saving The Model
+Validation Loss Decreased(0.00887--->0.00884) 	 Saving The Model
+Validation Loss Decreased(0.00884--->0.00882) 	 Saving The Model
+Validation Loss Decreased(0.00882--->0.00880) 	 Saving The Model
+Validation Loss Decreased(0.00880--->0.00879) 	 Saving The Model
+Validation Loss Decreased(0.00879--->0.00877) 	 Saving The Model
+Validation Loss Decreased(0.00877--->0.00875) 	 Saving The Model
+Validation Loss Decreased(0.00875--->0.00873) 	 Saving The Model
+Validation Loss Decreased(0.00873--->0.00871) 	 Saving The Model
+Validation Loss Decreased(0.00871--->0.00870) 	 Saving The Model
+Validation Loss Decreased(0.00870--->0.00868) 	 Saving The Model
+Validation Loss Decreased(0.00868--->0.00866) 	 Saving The Model
+Validation Loss Decreased(0.00866--->0.00865) 	 Saving The Model
+Validation Loss Decreased(0.00865--->0.00863) 	 Saving The Model
+Validation Loss Decreased(0.00863--->0.00862) 	 Saving The Model
+Validation Loss Decreased(0.00862--->0.00861) 	 Saving The Model
+Validation Loss Decreased(0.00861--->0.00859) 	 Saving The Model
+Validation Loss Decreased(0.00859--->0.00858) 	 Saving The Model
+Validation Loss Decreased(0.00858--->0.00857) 	 Saving The Model
+Validation Loss Decreased(0.00857--->0.00856) 	 Saving The Model
+Validation Loss Decreased(0.00856--->0.00854) 	 Saving The Model
+Validation Loss Decreased(0.00854--->0.00853) 	 Saving The Model
+Validation Loss Decreased(0.00853--->0.00852) 	 Saving The Model
+Validation Loss Decreased(0.00852--->0.00851) 	 Saving The Model
+Validation Loss Decreased(0.00851--->0.00850) 	 Saving The Model
+Validation Loss Decreased(0.00850--->0.00849) 	 Saving The Model
+Validation Loss Decreased(0.00849--->0.00848) 	 Saving The Model
+Validation Loss Decreased(0.00848--->0.00847) 	 Saving The Model
+Validation Loss Decreased(0.00847--->0.00846) 	 Saving The Model
+Validation Loss Decreased(0.00846--->0.00845) 	 Saving The Model
+Validation Loss Decreased(0.00845--->0.00845) 	 Saving The Model
+Validation Loss Decreased(0.00845--->0.00844) 	 Saving The Model
+Validation Loss Decreased(0.00844--->0.00843) 	 Saving The Model
+Validation Loss Decreased(0.00843--->0.00842) 	 Saving The Model
+Validation Loss Decreased(0.00842--->0.00841) 	 Saving The Model
+Validation Loss Decreased(0.00841--->0.00841) 	 Saving The Model
+Validation Loss Decreased(0.00841--->0.00840) 	 Saving The Model
+Validation Loss Decreased(0.00840--->0.00839) 	 Saving The Model
+Validation Loss Decreased(0.00839--->0.00838) 	 Saving The Model
+Validation Loss Decreased(0.00838--->0.00838) 	 Saving The Model
+Validation Loss Decreased(0.00838--->0.00837) 	 Saving The Model
+Validation Loss Decreased(0.00837--->0.00836) 	 Saving The Model
+Validation Loss Decreased(0.00836--->0.00835) 	 Saving The Model
+Validation Loss Decreased(0.00835--->0.00835) 	 Saving The Model
+Validation Loss Decreased(0.00835--->0.00834) 	 Saving The Model
+Validation Loss Decreased(0.00834--->0.00833) 	 Saving The Model
+Validation Loss Decreased(0.00833--->0.00832) 	 Saving The Model
+Validation Loss Decreased(0.00832--->0.00832) 	 Saving The Model
+Validation Loss Decreased(0.00832--->0.00831) 	 Saving The Model
+Validation Loss Decreased(0.00831--->0.00830) 	 Saving The Model
+Validation Loss Decreased(0.00830--->0.00829) 	 Saving The Model
+Validation Loss Decreased(0.00829--->0.00829) 	 Saving The Model
+Validation Loss Decreased(0.00829--->0.00828) 	 Saving The Model
+Validation Loss Decreased(0.00828--->0.00827) 	 Saving The Model
+Validation Loss Decreased(0.00827--->0.00826) 	 Saving The Model
+Validation Loss Decreased(0.00826--->0.00826) 	 Saving The Model
+Validation Loss Decreased(0.00826--->0.00825) 	 Saving The Model
+Validation Loss Decreased(0.00825--->0.00824) 	 Saving The Model
+Validation Loss Decreased(0.00824--->0.00823) 	 Saving The Model
+Validation Loss Decreased(0.00823--->0.00823) 	 Saving The Model
+Validation Loss Decreased(0.00823--->0.00822) 	 Saving The Model
+Epoch 200 		 Training Loss: 0.00964 		 Validation Loss: 0.00821
+Validation Loss Decreased(0.00822--->0.00821) 	 Saving The Model
+Validation Loss Decreased(0.00821--->0.00820) 	 Saving The Model
+Validation Loss Decreased(0.00820--->0.00819) 	 Saving The Model
+Validation Loss Decreased(0.00819--->0.00819) 	 Saving The Model
+Validation Loss Decreased(0.00819--->0.00818) 	 Saving The Model
+Validation Loss Decreased(0.00818--->0.00817) 	 Saving The Model
+Validation Loss Decreased(0.00817--->0.00816) 	 Saving The Model
+Validation Loss Decreased(0.00816--->0.00815) 	 Saving The Model
+Validation Loss Decreased(0.00815--->0.00815) 	 Saving The Model
+Validation Loss Decreased(0.00815--->0.00814) 	 Saving The Model
+Validation Loss Decreased(0.00814--->0.00813) 	 Saving The Model
+Validation Loss Decreased(0.00813--->0.00813) 	 Saving The Model
+Validation Loss Decreased(0.00813--->0.00812) 	 Saving The Model
+Validation Loss Decreased(0.00812--->0.00811) 	 Saving The Model
+Validation Loss Decreased(0.00811--->0.00810) 	 Saving The Model
+Validation Loss Decreased(0.00810--->0.00810) 	 Saving The Model
+Validation Loss Decreased(0.00810--->0.00809) 	 Saving The Model
+Validation Loss Decreased(0.00809--->0.00809) 	 Saving The Model
+Validation Loss Decreased(0.00809--->0.00808) 	 Saving The Model
+Validation Loss Decreased(0.00808--->0.00807) 	 Saving The Model
+Validation Loss Decreased(0.00807--->0.00807) 	 Saving The Model
+Validation Loss Decreased(0.00807--->0.00806) 	 Saving The Model
+Validation Loss Decreased(0.00806--->0.00806) 	 Saving The Model
+Validation Loss Decreased(0.00806--->0.00805) 	 Saving The Model
+Validation Loss Decreased(0.00805--->0.00805) 	 Saving The Model
+Validation Loss Decreased(0.00805--->0.00804) 	 Saving The Model
+Validation Loss Decreased(0.00804--->0.00804) 	 Saving The Model
+Validation Loss Decreased(0.00804--->0.00803) 	 Saving The Model
+Validation Loss Decreased(0.00803--->0.00803) 	 Saving The Model
+Validation Loss Decreased(0.00803--->0.00802) 	 Saving The Model
+Validation Loss Decreased(0.00802--->0.00802) 	 Saving The Model
+Validation Loss Decreased(0.00802--->0.00801) 	 Saving The Model
+Validation Loss Decreased(0.00801--->0.00801) 	 Saving The Model
+Validation Loss Decreased(0.00801--->0.00800) 	 Saving The Model
+Validation Loss Decreased(0.00800--->0.00800) 	 Saving The Model
+Validation Loss Decreased(0.00800--->0.00800) 	 Saving The Model
+Validation Loss Decreased(0.00800--->0.00799) 	 Saving The Model
+Validation Loss Decreased(0.00799--->0.00799) 	 Saving The Model
+Validation Loss Decreased(0.00799--->0.00799) 	 Saving The Model
+Validation Loss Decreased(0.00799--->0.00798) 	 Saving The Model
+Validation Loss Decreased(0.00798--->0.00798) 	 Saving The Model
+Validation Loss Decreased(0.00798--->0.00798) 	 Saving The Model
+Validation Loss Decreased(0.00798--->0.00797) 	 Saving The Model
+Validation Loss Decreased(0.00797--->0.00797) 	 Saving The Model
+Validation Loss Decreased(0.00797--->0.00797) 	 Saving The Model
+Validation Loss Decreased(0.00797--->0.00796) 	 Saving The Model
+Validation Loss Decreased(0.00796--->0.00796) 	 Saving The Model
+Validation Loss Decreased(0.00796--->0.00796) 	 Saving The Model
+Validation Loss Decreased(0.00796--->0.00796) 	 Saving The Model
+Validation Loss Decreased(0.00796--->0.00795) 	 Saving The Model
+Validation Loss Decreased(0.00795--->0.00795) 	 Saving The Model
+Validation Loss Decreased(0.00795--->0.00795) 	 Saving The Model
+Validation Loss Decreased(0.00795--->0.00795) 	 Saving The Model
+Validation Loss Decreased(0.00795--->0.00795) 	 Saving The Model
+Validation Loss Decreased(0.00795--->0.00794) 	 Saving The Model
+Validation Loss Decreased(0.00794--->0.00794) 	 Saving The Model
+Validation Loss Decreased(0.00794--->0.00794) 	 Saving The Model
+Validation Loss Decreased(0.00794--->0.00794) 	 Saving The Model
+Validation Loss Decreased(0.00794--->0.00794) 	 Saving The Model
+Validation Loss Decreased(0.00794--->0.00794) 	 Saving The Model
+Validation Loss Decreased(0.00794--->0.00794) 	 Saving The Model
+Validation Loss Decreased(0.00794--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00793) 	 Saving The Model
+Validation Loss Decreased(0.00793--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00792) 	 Saving The Model
+Validation Loss Decreased(0.00792--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00791) 	 Saving The Model
+Validation Loss Decreased(0.00791--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Epoch 300 		 Training Loss: 0.00911 		 Validation Loss: 0.00790
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00790) 	 Saving The Model
+Validation Loss Decreased(0.00790--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Epoch 400 		 Training Loss: 0.00888 		 Validation Loss: 0.00790
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00789) 	 Saving The Model
+Validation Loss Decreased(0.00789--->0.00788) 	 Saving The Model
+Validation Loss Decreased(0.00788--->0.00788) 	 Saving The Model
+Validation Loss Decreased(0.00788--->0.00788) 	 Saving The Model
+Validation Loss Decreased(0.00788--->0.00788) 	 Saving The Model
+Validation Loss Decreased(0.00788--->0.00788) 	 Saving The Model
+Validation Loss Decreased(0.00788--->0.00787) 	 Saving The Model
+Validation Loss Decreased(0.00787--->0.00787) 	 Saving The Model
+Validation Loss Decreased(0.00787--->0.00787) 	 Saving The Model
+Validation Loss Decreased(0.00787--->0.00786) 	 Saving The Model
+Validation Loss Decreased(0.00786--->0.00786) 	 Saving The Model
+Validation Loss Decreased(0.00786--->0.00786) 	 Saving The Model
+Validation Loss Decreased(0.00786--->0.00785) 	 Saving The Model
+Validation Loss Decreased(0.00785--->0.00785) 	 Saving The Model
+Validation Loss Decreased(0.00785--->0.00784) 	 Saving The Model
+Validation Loss Decreased(0.00784--->0.00783) 	 Saving The Model
+Validation Loss Decreased(0.00783--->0.00783) 	 Saving The Model
+Validation Loss Decreased(0.00783--->0.00782) 	 Saving The Model
+Validation Loss Decreased(0.00782--->0.00781) 	 Saving The Model
+Validation Loss Decreased(0.00781--->0.00780) 	 Saving The Model
+Validation Loss Decreased(0.00780--->0.00779) 	 Saving The Model
+Validation Loss Decreased(0.00779--->0.00778) 	 Saving The Model
+Validation Loss Decreased(0.00778--->0.00776) 	 Saving The Model
+Validation Loss Decreased(0.00776--->0.00764) 	 Saving The Model
+Validation Loss Decreased(0.00764--->0.00745) 	 Saving The Model
+Validation Loss Decreased(0.00745--->0.00739) 	 Saving The Model
+Validation Loss Decreased(0.00739--->0.00734) 	 Saving The Model
+Validation Loss Decreased(0.00734--->0.00731) 	 Saving The Model
+Validation Loss Decreased(0.00731--->0.00729) 	 Saving The Model
+Validation Loss Decreased(0.00729--->0.00728) 	 Saving The Model
+Validation Loss Decreased(0.00728--->0.00726) 	 Saving The Model
+Validation Loss Decreased(0.00726--->0.00725) 	 Saving The Model
+Validation Loss Decreased(0.00725--->0.00723) 	 Saving The Model
+Validation Loss Decreased(0.00723--->0.00723) 	 Saving The Model
+Validation Loss Decreased(0.00723--->0.00719) 	 Saving The Model
+Validation Loss Decreased(0.00719--->0.00715) 	 Saving The Model
+Validation Loss Decreased(0.00715--->0.00713) 	 Saving The Model
+Validation Loss Decreased(0.00713--->0.00712) 	 Saving The Model
+Epoch 500 		 Training Loss: 0.00811 		 Validation Loss: 0.00712
+Validation Loss Decreased(0.00712--->0.00712) 	 Saving The Model
+Validation Loss Decreased(0.00712--->0.00709) 	 Saving The Model
+Validation Loss Decreased(0.00709--->0.00708) 	 Saving The Model
+Validation Loss Decreased(0.00708--->0.00707) 	 Saving The Model
+Validation Loss Decreased(0.00707--->0.00707) 	 Saving The Model
+Validation Loss Decreased(0.00707--->0.00706) 	 Saving The Model
+Validation Loss Decreased(0.00706--->0.00706) 	 Saving The Model
+Validation Loss Decreased(0.00706--->0.00705) 	 Saving The Model
+Validation Loss Decreased(0.00705--->0.00704) 	 Saving The Model
+Validation Loss Decreased(0.00704--->0.00704) 	 Saving The Model
+Validation Loss Decreased(0.00704--->0.00704) 	 Saving The Model
+Validation Loss Decreased(0.00704--->0.00703) 	 Saving The Model
+Validation Loss Decreased(0.00703--->0.00702) 	 Saving The Model
+Validation Loss Decreased(0.00702--->0.00702) 	 Saving The Model
+Validation Loss Decreased(0.00702--->0.00702) 	 Saving The Model
+Validation Loss Decreased(0.00702--->0.00701) 	 Saving The Model
+Validation Loss Decreased(0.00701--->0.00701) 	 Saving The Model
+Validation Loss Decreased(0.00701--->0.00701) 	 Saving The Model
+Validation Loss Decreased(0.00701--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00700) 	 Saving The Model
+Validation Loss Decreased(0.00700--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00699) 	 Saving The Model
+Validation Loss Decreased(0.00699--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00698) 	 Saving The Model
+Validation Loss Decreased(0.00698--->0.00697) 	 Saving The Model
+Validation Loss Decreased(0.00697--->0.00697) 	 Saving The Model
+Validation Loss Decreased(0.00697--->0.00697) 	 Saving The Model
+Validation Loss Decreased(0.00697--->0.00697) 	 Saving The Model
+Validation Loss Decreased(0.00697--->0.00697) 	 Saving The Model
+Validation Loss Decreased(0.00697--->0.00697) 	 Saving The Model
+Validation Loss Decreased(0.00697--->0.00696) 	 Saving The Model
+Validation Loss Decreased(0.00696--->0.00696) 	 Saving The Model
+Validation Loss Decreased(0.00696--->0.00696) 	 Saving The Model
+Validation Loss Decreased(0.00696--->0.00696) 	 Saving The Model
+Validation Loss Decreased(0.00696--->0.00696) 	 Saving The Model
+Validation Loss Decreased(0.00696--->0.00696) 	 Saving The Model
+Validation Loss Decreased(0.00696--->0.00695) 	 Saving The Model
+Validation Loss Decreased(0.00695--->0.00695) 	 Saving The Model
+Validation Loss Decreased(0.00695--->0.00695) 	 Saving The Model
+Validation Loss Decreased(0.00695--->0.00695) 	 Saving The Model
+Validation Loss Decreased(0.00695--->0.00694) 	 Saving The Model
+Validation Loss Decreased(0.00694--->0.00694) 	 Saving The Model
+Validation Loss Decreased(0.00694--->0.00694) 	 Saving The Model
+Validation Loss Decreased(0.00694--->0.00694) 	 Saving The Model
+Validation Loss Decreased(0.00694--->0.00694) 	 Saving The Model
+Validation Loss Decreased(0.00694--->0.00693) 	 Saving The Model
+Validation Loss Decreased(0.00693--->0.00693) 	 Saving The Model
+Validation Loss Decreased(0.00693--->0.00693) 	 Saving The Model
+Validation Loss Decreased(0.00693--->0.00693) 	 Saving The Model
+Validation Loss Decreased(0.00693--->0.00693) 	 Saving The Model
+Validation Loss Decreased(0.00693--->0.00692) 	 Saving The Model
+Validation Loss Decreased(0.00692--->0.00692) 	 Saving The Model
+Validation Loss Decreased(0.00692--->0.00692) 	 Saving The Model
+Validation Loss Decreased(0.00692--->0.00692) 	 Saving The Model
+Validation Loss Decreased(0.00692--->0.00692) 	 Saving The Model
+Validation Loss Decreased(0.00692--->0.00691) 	 Saving The Model
+Validation Loss Decreased(0.00691--->0.00691) 	 Saving The Model
+Validation Loss Decreased(0.00691--->0.00691) 	 Saving The Model
+Validation Loss Decreased(0.00691--->0.00691) 	 Saving The Model
+Validation Loss Decreased(0.00691--->0.00690) 	 Saving The Model
+Validation Loss Decreased(0.00690--->0.00690) 	 Saving The Model
+Validation Loss Decreased(0.00690--->0.00690) 	 Saving The Model
+Validation Loss Decreased(0.00690--->0.00690) 	 Saving The Model
+Validation Loss Decreased(0.00690--->0.00689) 	 Saving The Model
+Validation Loss Decreased(0.00689--->0.00689) 	 Saving The Model
+Validation Loss Decreased(0.00689--->0.00689) 	 Saving The Model
+Validation Loss Decreased(0.00689--->0.00689) 	 Saving The Model
+Validation Loss Decreased(0.00689--->0.00689) 	 Saving The Model
+Validation Loss Decreased(0.00689--->0.00688) 	 Saving The Model
+Epoch 600 		 Training Loss: 0.00784 		 Validation Loss: 0.00688
+Validation Loss Decreased(0.00688--->0.00688) 	 Saving The Model
+Validation Loss Decreased(0.00688--->0.00688) 	 Saving The Model
+Validation Loss Decreased(0.00688--->0.00688) 	 Saving The Model
+Validation Loss Decreased(0.00688--->0.00687) 	 Saving The Model
+Validation Loss Decreased(0.00687--->0.00687) 	 Saving The Model
+Validation Loss Decreased(0.00687--->0.00687) 	 Saving The Model
+Validation Loss Decreased(0.00687--->0.00687) 	 Saving The Model
+Validation Loss Decreased(0.00687--->0.00687) 	 Saving The Model
+Validation Loss Decreased(0.00687--->0.00686) 	 Saving The Model
+Validation Loss Decreased(0.00686--->0.00686) 	 Saving The Model
+Validation Loss Decreased(0.00686--->0.00686) 	 Saving The Model
+Validation Loss Decreased(0.00686--->0.00686) 	 Saving The Model
+Validation Loss Decreased(0.00686--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00685) 	 Saving The Model
+Validation Loss Decreased(0.00685--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00684) 	 Saving The Model
+Validation Loss Decreased(0.00684--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00683) 	 Saving The Model
+Validation Loss Decreased(0.00683--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00682) 	 Saving The Model
+Validation Loss Decreased(0.00682--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00681) 	 Saving The Model
+Validation Loss Decreased(0.00681--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00680) 	 Saving The Model
+Validation Loss Decreased(0.00680--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00679) 	 Saving The Model
+Validation Loss Decreased(0.00679--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00678) 	 Saving The Model
+Validation Loss Decreased(0.00678--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00677) 	 Saving The Model
+Validation Loss Decreased(0.00677--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Epoch 700 		 Training Loss: 0.00764 		 Validation Loss: 0.00676
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00676) 	 Saving The Model
+Validation Loss Decreased(0.00676--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00675) 	 Saving The Model
+Validation Loss Decreased(0.00675--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00674) 	 Saving The Model
+Validation Loss Decreased(0.00674--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00673) 	 Saving The Model
+Validation Loss Decreased(0.00673--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00672) 	 Saving The Model
+Validation Loss Decreased(0.00672--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00671) 	 Saving The Model
+Validation Loss Decreased(0.00671--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Validation Loss Decreased(0.00670--->0.00670) 	 Saving The Model
+Epoch 800 		 Training Loss: 0.00760 		 Validation Loss: 0.00675
+Epoch 900 		 Training Loss: 0.00724 		 Validation Loss: 0.00679
+Epoch 1000 		 Training Loss: 0.00705 		 Validation Loss: 0.00680
+Epoch 1100 		 Training Loss: 0.00682 		 Validation Loss: 0.00684
+Epoch 1200 		 Training Loss: 0.00660 		 Validation Loss: 0.00683
+Epoch 1300 		 Training Loss: 0.00626 		 Validation Loss: 0.00710
+Epoch 1400 		 Training Loss: 0.00569 		 Validation Loss: 0.00783
+Epoch 1500 		 Training Loss: 0.00527 		 Validation Loss: 0.00806
+Epoch 1600 		 Training Loss: 0.00545 		 Validation Loss: 0.00883
+Epoch 1700 		 Training Loss: 0.00449 		 Validation Loss: 0.00897
+Epoch 1800 		 Training Loss: 0.00418 		 Validation Loss: 0.00992
+Epoch 1900 		 Training Loss: 0.00416 		 Validation Loss: 0.00998
+Epoch 2000 		 Training Loss: 0.00381 		 Validation Loss: 0.01074
+Epoch 2100 		 Training Loss: 0.00380 		 Validation Loss: 0.01095
+Epoch 2200 		 Training Loss: 0.00358 		 Validation Loss: 0.01136
+Epoch 2300 		 Training Loss: 0.00349 		 Validation Loss: 0.01096
+Epoch 2400 		 Training Loss: 0.00346 		 Validation Loss: 0.01132
+Epoch 2500 		 Training Loss: 0.00321 		 Validation Loss: 0.01111
+Epoch 2600 		 Training Loss: 0.00337 		 Validation Loss: 0.01113
+Epoch 2700 		 Training Loss: 0.00295 		 Validation Loss: 0.01147
+Stopping the training early		Model saved
+	Training Loss: 0.002927841152995825
+	Validation Loss: 0.006701167207211256
+
+
+
+
+RMSE of validation set: 7.55988057960904
+RMSE of entire data set: 4.508197167847628
+
+
+
+

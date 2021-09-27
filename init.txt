@@ -1,1 +1,4 @@
-init file
+We have develoed a project where it
+1. Takes in a store image and computes available area in the side lot in sq.feet
+2. Predicts the sales for next 14 days of that particular store
+3. Caps the order units
